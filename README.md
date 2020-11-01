@@ -18,7 +18,7 @@
 `Step 1` - clone the repository
 
 ```bash
-$ git clone https://github.com/k.kolarov/neighbours-tour
+$ git clone git@github.com:kkolarov/neighbours-tour.git
 ```
 
 `Step 2` - cd to the project
