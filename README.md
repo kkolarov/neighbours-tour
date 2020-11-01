@@ -1,5 +1,5 @@
 # Neighbours Tour
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.com/kkolarov/neighbours-tour.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 *Angel likes to travel around neighbor countries. To help him plan his next trip you need to create a REST API accepting the following request parameters: Starting country Budget per country (equal for all neighbor countries) Total budget Input Currency*
 
