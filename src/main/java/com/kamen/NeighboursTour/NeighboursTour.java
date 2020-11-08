@@ -54,4 +54,9 @@ public class NeighboursTour {
     public void setTourOriginalCurrency(String tourOriginalCurrency) {
         this.tourOriginalCurrency = tourOriginalCurrency;
     }
+
+    public String toString() {
+        return String.format("Original currency: %s, startingCountry: %s, cost per country: %.2f, total budget: %.2f",
+                tourOriginalCurrency, tourStartingCountry, tourCostPerCountry, tourTotalBudget);
+    }
 }
